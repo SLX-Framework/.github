@@ -5,4 +5,5 @@
 SRX ist ein performance-orientiertes FiveM Framework.
 
 ## Ressourcen
-- [srx-core](https://github.com/SRX-Framework/srx-core)
+- [SLX-Core](https://github.com/SLX-Framework/SLX-Core)
+- [slang-core](https://github.com/SLX-Framework/slang_core)
